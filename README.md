@@ -1,6 +1,12 @@
 <h1 align="center">Oi 👋, eu sou a Miriam!</h1>
 <h3 align="center">Eu sou pesquisadora, aspirante a cientista de dados, apaixonada por decisões baseadas em evidências.</h3>
 
+<h3 align="center">Eu trabalho como consultora em negócios de impacto: educação, saúde, cidades.</h3>
+
+<h3 align="center">Eu sou campeã em xadrez!</h3>
+
+<h3 align="center">Adoro séries e livros!</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eumoas&label=Profile%20views&color=0e75b6&style=flat" alt="eumoas" /> </p>
 
 <p align="left"> <a href="https://twitter.com/eumoas" target="blank"><img src="https://img.shields.io/twitter/follow/eumoas?logo=twitter&style=for-the-badge" alt="eumoas" /></a> </p>
