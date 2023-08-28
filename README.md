@@ -3,7 +3,7 @@
 
 <h3 align="center">Eu trabalho como consultora em negócios de impacto: educação, saúde, cidades.</h3>
 
-<h3 align="center">Eu sou campeã em xadrez!</h3>
+<h3 align="center">Mãe da Helena!</h3>
 
 <h3 align="center">Adoro séries e livros!</h3>
 
