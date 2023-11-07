@@ -1,4 +1,5 @@
-<h1 align="center">Oi 👋, eu sou a Miriam!</h1>
+[![](https://raw.githubusercontent.com/Miriam/Miriam/master/profile.gif)](https://www.Miriam.com/)<!-- If you want the template for my gif, email me! -->
+
 <h3 align="center">Eu sou pesquisadora, aspirante a cientista de dados, apaixonada por decisões baseadas em evidências.</h3>
 
 <h3 align="center">Eu trabalho como consultora em negócios de impacto: educação, saúde, cidades.</h3>
