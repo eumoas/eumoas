@@ -2,8 +2,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miriamaguiarsobral//)](https://www.linkedin.com/in/miriamaguiarsobral/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=eumoas@gmail.com)](eumoas@gmail.com)
 
-<p align="center">
-  <img src="https:" alt="animated" />
 </p>
 
 Olá! Sou Miriam, uma Cientista de Dados movida pela paixão de transformar dados complexos em insights. Com mais de 15 anos de experiência em gestão de projetos, análise de dados e pesquisa aplicada, trago uma combinação única de pensamento estratégico, expertise técnica e uma abordagem nexialista que conecta áreas como sustentabilidade, políticas públicas e tecnologia.
@@ -66,31 +64,7 @@ Experiência: Liderei iniciativas baseadas em dados na Tomara!, Fundação Tide 
  ![ Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=Apache-Kafka)
  
  
- <br>
 
-<b> :chart_with_upwards_trend: Estatísticas</b>:
-
-<a href="https://github.com/karinnecristina">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=karinnecristina&show_icons=true&theme=dark&include_commits=true"/>
-</a>
-
-<a href="https://github.com/karinnecristina">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinnecristina&layout=compact&langs_count=8&theme=dark"/>
-</a>
-
-
-<br></br>
-
-<b> ⚡ Principais Repositórios</b>:
-
-<a href="https://github.com/karinnecristina/Data_Science">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=karinnecristina&repo=Data_Science&theme=dark" />
-</a>
-
-<a href="https://github.com/karinnecristina/Engenharia_de_Dados">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=karinnecristina&repo=Engenharia_de_Dados&theme=dark" />
-</a>
- 
 
 - 📫 Fale comigo **eumoas@gmail.com**
 
