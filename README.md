@@ -1,39 +1,98 @@
-[![](https://raw.githubusercontent.com/Miriam/Miriam/master/profile.gif)](https://www.Miriam.com/)<!-- If you want the template for my gif, email me! -->
+### "O importante é não parar de questionar; a curiosidade tem sua própria razão de existir" 😉
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miriamaguiarsobral//)](https://www.linkedin.com/in/miriamaguiarsobral/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=eumoas@gmail.com)](eumoas@gmail.com)
 
-<h3 align="center">Eu sou pesquisadora, aspirante a cientista de dados, apaixonada por decisões baseadas em evidências.</h3>
-
-<h3 align="center">Eu trabalho como consultora em negócios de impacto: educação, saúde, cidades.</h3>
-
-<h3 align="center">Mãe da Helena!</h3>
-
-<h3 align="center">Adoro séries e livros!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eumoas&label=Profile%20views&color=0e75b6&style=flat" alt="eumoas" /> </p>
-
-<p align="left"> <a href="https://twitter.com/eumoas" target="blank"><img src="https://img.shields.io/twitter/follow/eumoas?logo=twitter&style=for-the-badge" alt="eumoas" /></a> </p>
-
-- 📫 Fale comigo **eumoas@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/eumoas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eumoas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/miriamaguiarsobral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miriamaguiarsobral" height="30" width="40" /></a>
-<a href="https://medium.com/@eumoas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eumoas" height="30" width="40" /></a>
-<a href="https://discord.gg/moaguiar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="moaguiar" height="30" width="40" /></a>
+<p align="center">
+  <img src="https:" alt="animated" />
 </p>
 
-<h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Olá! Sou Miriam, uma Cientista de Dados movida pela paixão de transformar dados complexos em insights. Com mais de 15 anos de experiência em gestão de projetos, análise de dados e pesquisa aplicada, trago uma combinação única de pensamento estratégico, expertise técnica e uma abordagem nexialista que conecta áreas como sustentabilidade, políticas públicas e tecnologia.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eumoas&show_icons=true&locale=en&layout=compact" alt="eumoas" /></p>
+___
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eumoas&show_icons=true&locale=en" alt="eumoas" /></p>
+####O que eu faço?:
+Ciência de Dados e Machine Learning: Domino Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn), SQL e plataformas de nuvem (GCP, AWS). Desenvolvo modelos preditivos, algoritmos de clusterização e sistemas de classificação para resolver desafios reais.
+Gestão de Projetos: Experiente em metodologias ágeis (Scrum, Kanban) e frameworks PMI, com histórico de liderança em projetos de impacto em contextos sociais e corporativos.
+Soluções de Impacto: Meu trabalho foca em criar estratégias baseadas em dados para desenvolvimento sustentável, educação e equidade social, como no projeto Jornada Amazônia - Naiá Amazônia.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eumoas&" alt="eumoas" /></p>
+####Projetos em Destaque: 
+
+Análise Preditiva de Matrículas: Desenvolvi modelos para prever taxas de matrícula na educação infantil em municípios brasileiros.
+Previsão de Preços de Carros Usados: Construí um modelo preditivo para precificação de carros usados, utilizando técnicas de regressão.
+Chatbot sobre Dengue com LangFlow: Criei um chatbot alimentado por IA com embeddings do guia do Ministério da Saúde sobre dengue, construído com LangFlow e DataStax.
+
+####Formação e Experiência
+
+Educação: Mestra em Gestão e Políticas Públicas (FGV), Bacharela em Sistemas de Informação e atualmente cursando especialização em Computação Quântica (SENAI CIMATEC).
+Experiência: Liderei iniciativas baseadas em dados na Tomara!, Fundação Tide Setubal e Instituto Unibanco, transformando dados brutos em decisões estratégicas para impacto social.
+
+####Prêmios: Reconhecida por liderança e inovação, incluindo 1º lugar no Industry4her promovido pela Accenture, 1º lugar no Hackaton das Manas por uma plataforma tecnológica para mulheres egressas do sistema penitenciário e 2º lugar no JUV-RIO com o Equalia Hub, um projeto de resiliência climática e 1º 
+
+<br>
+
+ ## 🚀 **Linguagens e Ferramentas:**
+
+ #### 💻 Uso diário:
+ ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+ ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+ ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+ ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
+ ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
+ ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+ 
+ #### 🎲 Ciência de dados:
+ ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
+ ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
+ ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
+ ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
+ ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
+
+ #### ⚙️ Engenharia de dados:
+ ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
+ ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+ 
+ #### 📚 Tenho conhecimento básico:
+ ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins)
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=Mongodb)
+ ![Heroku](https://img.shields.io/badge/-Heroku-black?style=plastic&logo=Heroku)
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
+ ![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau)
+ ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
+ 
+ #### 🌱 Estou aprendendo:
+ ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-black?style=flat-square&logo=Elasticsearch)
+ ![Kibana](https://img.shields.io/badge/Kibana-black?style=flat-square&logo=Kibana)
+ ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=Terraform)
+ ![ Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=Apache-Kafka)
+ 
+ 
+ <br>
+
+<b> :chart_with_upwards_trend: Estatísticas</b>:
+
+<a href="https://github.com/karinnecristina">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=karinnecristina&show_icons=true&theme=dark&include_commits=true"/>
+</a>
+
+<a href="https://github.com/karinnecristina">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinnecristina&layout=compact&langs_count=8&theme=dark"/>
+</a>
+
+
+<br></br>
+
+<b> ⚡ Principais Repositórios</b>:
+
+<a href="https://github.com/karinnecristina/Data_Science">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=karinnecristina&repo=Data_Science&theme=dark" />
+</a>
+
+<a href="https://github.com/karinnecristina/Engenharia_de_Dados">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=karinnecristina&repo=Engenharia_de_Dados&theme=dark" />
+</a>
+ 
+
+- 📫 Fale comigo **eumoas@gmail.com**
 
 
 
