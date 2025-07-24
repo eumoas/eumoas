@@ -4,7 +4,7 @@
 
 </p>
 
-Olá! Sou Miriam, uma Cientista de Dados movida pela paixão de transformar dados complexos em insights. Com mais de 15 anos de experiência em gestão de projetos, análise de dados e pesquisa aplicada, trago uma combinação única de pensamento estratégico, expertise técnica e uma abordagem nexialista que conecta áreas como sustentabilidade, políticas públicas e tecnologia.
+Olá! Sou Miriam, uma aspirante a Cientista de Dados movida pela paixão de transformar dados complexos em insights. Com mais de 15 anos de experiência em gestão de projetos, análise de dados e pesquisa aplicada, trago uma combinação única de pensamento estratégico, expertise técnica e uma abordagem nexialista que conecta áreas como sustentabilidade, políticas públicas e tecnologia.
 
 ___
 
