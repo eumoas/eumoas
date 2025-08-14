@@ -16,12 +16,14 @@ Soluções de Impacto: Meu trabalho foca em criar estratégias baseadas em dados
 ####Projetos em Destaque: 
 
 Análise Preditiva de Matrículas: Desenvolvi modelos para prever taxas de matrícula na educação infantil em municípios brasileiros.
+
 Previsão de Preços de Carros Usados: Construí um modelo preditivo para precificação de carros usados, utilizando técnicas de regressão.
+
 Chatbot sobre Dengue com LangFlow: Criei um chatbot alimentado por IA com embeddings do guia do Ministério da Saúde sobre dengue, construído com LangFlow e DataStax.
 
 ####Formação e Experiência
 
-Educação: Mestra em Gestão e Políticas Públicas (FGV), Bacharela em Sistemas de Informação e atualmente cursando especialização em Computação Quântica (SENAI CIMATEC).
+Educação: Mestre em Gestão e Políticas Públicas (FGV), Bacharel em Sistemas de Informação, Licenciada em Matemática e atualmente cursando especialização em Computação Quântica (SENAI CIMATEC).
 Experiência: Liderei iniciativas baseadas em dados na Tomara!, Fundação Tide Setubal e Instituto Unibanco, transformando dados brutos em decisões estratégicas para impacto social.
 
 ####Prêmios: Reconhecida por liderança e inovação, incluindo 1º lugar no Industry4her promovido pela Accenture, 1º lugar no Hackaton das Manas por uma plataforma tecnológica para mulheres egressas do sistema penitenciário e 2º lugar no JUV-RIO com o Equalia Hub, um projeto de resiliência climática e 1º 
